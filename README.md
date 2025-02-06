@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bookbig
 - 👀 I’m interested in Food
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently learning JAVA coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: 
