@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JAVA coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: 
+- 😄 Pronouns: BOOK
 - ⚡ Fun fact: 
 
 <!---
